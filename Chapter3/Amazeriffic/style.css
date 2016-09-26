@@ -18,6 +18,8 @@ header {
 
 header h1 {
   float: left;
+  color: blue;
+  font-size: 50px;
   width: 570px;
 }
 
@@ -35,7 +37,19 @@ main .left {
   float: left;
   width: 570px;
 }
+.question{
 
+  color: red;
+  font-size: 20px;
+  padding: 10px;
+}
+.answer{
+
+  color: green;
+  font-size: 20px;
+  padding: 10px;
+ 
+}
 main .right {
   float: right;
   width: 285px;
